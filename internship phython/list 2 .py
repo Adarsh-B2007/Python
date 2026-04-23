@@ -1,0 +1,9 @@
+A=[1,2,3,4,5]
+A[3]=100
+print(A)
+A.append(1000)
+print(A)
+A.remove(3)
+print(A)
+A.pop(1)
+print(A)
